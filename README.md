@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some future projects ...
 - 🤔 I’m looking for help with Apex Triggers ...
 - ⚡ Fun fact: I like Kiwifurit
---> Have a great day
+--> I am learning am learning about Salesforce.
+Have a great day.
