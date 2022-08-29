@@ -9,6 +9,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about Apex and Github ...
 - 👯 I’m looking to collaborate on some future projects ...
 - 🤔 I’m looking for help with Apex Triggers ...
-- ⚡ Fun fact: I like Kiwifurit
+- ⚡ Fun fact: I like Kiwifruit
 --> I am learning am learning about Salesforce. It is lots of fun!
 Have a great day.
+
+
+
