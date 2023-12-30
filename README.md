@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some future projects ...
 - 🤔 I’m looking for help with Apex Triggers ...
 - ⚡ Fun fact: I like Kiwifruit
---> Salesforce Functional Consultant/Developer in training. Double Star Trailhead Ranger. 12+ years experience in banking, wealth, investments including senior leadership roles. Customer driven with relevant up-to-date qualifications across Agile, project management and technology.
+--> Salesforce Systems Lead at High Performance Sport New Zealand. 12+ years experience in banking, wealth, investments including senior leadership roles. Customer driven with relevant up-to-date qualifications across Agile, project management and technology.
 
 
 
